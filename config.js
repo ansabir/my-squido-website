@@ -1,8 +1,8 @@
 const config = {
     development: {
-        name: 'sympl',
+        name: 'Sabir Ansari',
         description: 'Thoughts, stories and ideas.',
-        twitterHandle: '@mrvautin',
+        twitterHandle: '@sabir_ansari95',
         baseUrl: 'http://localhost:4965',
         sourcesExt: 'markdown',
         summaryLength: 250,
@@ -18,9 +18,9 @@ const config = {
         ]
     },
     production: {
-        name: 'sympl',
+        name: 'Sabir Ansari',
         description: 'Thoughts, stories and ideas.',
-        twitterHandle: '@mrvautin',
+        twitterHandle: '@sabir_ansari95',
         baseUrl: 'https://blog.squido.org',
         sourcesExt: 'markdown',
         summaryLength: 250,
