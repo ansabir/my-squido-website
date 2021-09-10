@@ -9,8 +9,4 @@ tags:
   - second
 ---
 
-# Second blog
-
-## This is my second blog
-
 My name is Sabir Ansari I currenty work as freelance desktop support engineer

@@ -1,7 +1,7 @@
 const config = {
     development: {
         name: 'Sabir Ansari',
-        description: 'Thoughts, stories and ideas.',
+        description: 'Thoughts, stories and ideas`.',
         twitterHandle: '@sabir_ansari95',
         baseUrl: 'http://localhost:4965',
         sourcesExt: 'markdown',
