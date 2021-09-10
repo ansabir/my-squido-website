@@ -21,7 +21,7 @@ const config = {
         name: 'Sabir Ansari',
         description: 'Thoughts, stories and ideas.',
         twitterHandle: '@sabir_ansari95',
-        baseUrl: 'https://blog.squido.org',
+        baseUrl: 'https://www.sabiransari.com',
         sourcesExt: 'markdown',
         summaryLength: 250,
         port: 4965,
