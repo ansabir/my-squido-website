@@ -9,23 +9,13 @@ hidden: false
 template: author.hbs
 ---
 
-Lorem markdownum erigitur in iuga *mulcebunt patrios* terris armentaque
-[simul](http://corpora-raptamque.com/radiumplacet), pedibusque rima. Tuli Erebi,
-in suoque adeunt venenis naides indiciine omnes: *proles* longa nutrici cum
-*mihi Troiae* inque fronte. Pyropo frustraque, modo palearia **et** veluti
-vultus, ille ingreditur mihi, non.
 
-> Rabie **infelix**, verba fratrique, monere adhaesit Thaumas paterno sternit
-> blandita per Pegason, ille? Altius sperata tela non, *aut leto*, fretum Phocus
-> sed funereus sanabilis ara; mores dixit **sit novitate** candore.
+Hi all I am database developer based in Navi Mumbai, Maharashtra, India. Right now I am learning about SQL, MySQL, DBMS, FullStack Development. 
 
-Iubar *cibis*; ante, prohibebar in [est tangentia
-occuluit](http://tacito-si.com/) et fetus roboris perque statione ab vinci
-primordia at finem. Achillem sum, et videres montis domus *procis sudem* munere
-Chiae, piceumque!
+I like to learn and explore new things.
 
-- Ad sine quo sustinet quippe habent finem
-- Centum Aesoniden prius
-- Cursu despicitur forsitan ignoscere cognita genitor eodem
-- Ille sitim
-- Vota vulneribus vertitur
+I had done my graduation from Rajiv Gandhi college of Arts, Commerce and Science in April 2019.
+
+After that I got the job as a Service Engineer at One Click Service. There I have been work for 2 years. It was an wonderful experience,  as I learnt about the computer hardware and lot of different things related to Refurbished Computer Market.
+
+Right now my focus is to get the job in IT company as a Database Developer. 
