@@ -3,7 +3,7 @@ title: Author
 permalink: author
 description: About the author
 date: '2021-02-26 01:52:00'
-author: Mark Moffat
+author: Sabir Ansari
 visible: false
 hidden: false
 template: author.hbs
