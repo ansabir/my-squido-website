@@ -2,10 +2,19 @@
 title: HTML Basic
 permalink: html-basic
 description: Learn Basic of HTML
-date: '2021-10-05'
+date: 2021-10-05T00:00:00.000Z
 author: Sabir Ansari
 tags:
-    - html
+  - html
+matter: "\r\ntitle: HTML Basic\r\npermalink: html-basic\r\ndescription: Learn Basic of HTML\r\ndate: '2021-10-05'\r\nauthor: Sabir Ansari\r\ntags:\r\n    - html\r\n"
+file: >-
+  C:/Users/Admin/Desktop/sabir/my-squido-website/source/posts/01-basic-html.markdown
+lastupdated: 2022-04-26T17:16:59.571Z
+hash: 7f89e2e343ea3784fc3b5b4dba512c6c
+dateObject: 2021-10-05T00:00:00.000Z
+dateISO: '2021-10-05T00:00:00.000Z'
+error: null
+empty: false
 ---
 
 HTML stands for Hyper Text Markup Language. HTML is the first thing to learn if you want to be a web developer.

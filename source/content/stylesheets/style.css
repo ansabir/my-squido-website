@@ -39,25 +39,39 @@ a:hover{
 }
 
 .post{
-    border-bottom: 1px solid #E1E3E6;
+    border-bottom: 5px solid #E1E3E6;
+    font-size: 1.3rem;
+}
+
+#blog-title {
+    padding: 10px;
+    background: black;
+    text-align: center;
+    font-weight: 800;
+    margin-bottom: 1.5em;
+}
+
+#article {
+    font-size: 1.3rem;
 }
 
 .post-title {
     position: relative;
     z-index: 10;
     margin: 0 0 1.1rem;
-    font-size: 3.0em;
+    font-size: 3rem;
     line-height: 1.25em;
     font-weight: 700;
     text-indent: -1px;
 }
 
 .post-title a{
-    color: #264653 !important;
+    color: black !important; /*#264653*/
 }
 
 .post-meta, .tag, .lead, .post-meta a{
     color: #909499 !important;
+    
 }
 
 .post-meta a{
@@ -79,9 +93,10 @@ a:hover{
     font-weight: 700;
 }
 
+
 h1, h2{
-    color: #264653 !important;
-    font-weight: 700; 
+    color: white !important; /* #264653*/
+    font-weight: 700;
 }
 
 .brand{
